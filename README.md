@@ -1,8 +1,9 @@
 # Flloatwer
 
+Hi, im flloatwer. One of my other nicknames is also JulSM.
+
 ## CPU Overview
 
-Flloatwer is a fictional CPU architecture designed for educational purposes, featuring a simplified instruction set and memory model. It is inspired by classic assembly-like systems such as WozMon.
 
 ### Key Features
 
@@ -13,7 +14,7 @@ Flloatwer is a fictional CPU architecture designed for educational purposes, fea
 
 ### Example Assembly Code
 
-Here's a sample of assembly-like code for Flloatwer:
+Here's a sample of assembly-like code:
 
 ```plaintext
 0x0000 copy 0x0001 0x0002 ; Copy value from address 0x0001 to 0x0002
@@ -25,3 +26,8 @@ Here's a sample of assembly-like code for Flloatwer:
 0x0012 ret                ; Return from subroutine
 0x0015 tty 0xFFFF         ; Print value at address 0xFFFF to TTY
 0x0018 keyboard            ; Read keyboard input and store in address 0xFFFE
+
+### Datasheet in repo (datasheet.odt)
+
+### What i want:
+I would be extremly happy, if somebody makes this CPU in **logisim-evolution**, as an .circ file.
