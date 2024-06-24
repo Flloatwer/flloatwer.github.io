@@ -12,6 +12,11 @@ Hi, im flloatwer. One of my other nicknames is also JulSM.
 - **I/O Handling**: Supports basic input and output operations, allowing interaction with peripherals such as a TTY (terminal) and keyboard.
 - **Programming Interface**: Provides a straightforward assembly-like language for programming and simulating CPU operations.
 
+### Datasheet in repo (datasheet.odt)
+
+### What i want:
+I would be extremly happy, if somebody makes this CPU in **logisim-evolution**, as an .circ file.
+
 ### Example Assembly Code
 
 Here's a sample of assembly-like code:
@@ -27,7 +32,3 @@ Here's a sample of assembly-like code:
 0x0015 tty 0xFFFF         ; Print value at address 0xFFFF to TTY
 0x0018 keyboard            ; Read keyboard input and store in address 0xFFFE
 
-### Datasheet in repo (datasheet.odt)
-
-### What i want:
-I would be extremly happy, if somebody makes this CPU in **logisim-evolution**, as an .circ file.
