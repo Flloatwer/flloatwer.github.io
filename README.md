@@ -1,7 +1,5 @@
 # Flloatwer
 
-Hi, im flloatwer. One of my other nicknames is also JulSM.
-
 ## CPU Overview
 
 
